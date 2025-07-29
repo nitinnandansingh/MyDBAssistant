@@ -1,10 +1,10 @@
-# Chat with My DB
+# My DB Assistant
 
 This is a Streamlit-based application that lets you **chat with your database** using natural language. Powered by **Google Gemini 1.5 Flash** and **LangChain**, it converts your questions into SQL, queries your database, and gives easy-to-understand answers.
 
 ---
 
-<img src="Workflow_diagram/MyDBAssistantFlowchart.jpg" alt="My DB Assistant Flowchart" style="max-width: 100%;" />
+<img src="Workflow_diagram/Flowchart.jpg" alt="My DB Assistant Flowchart" style="max-width: 100%;" />
 
 ## Features
 

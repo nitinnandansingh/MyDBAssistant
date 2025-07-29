@@ -156,7 +156,7 @@ def get_response(user_query: str, db: SQLDatabase, chat_history: list, model: st
 
 # Page settings
 st.set_page_config(page_title="Chat with DB", page_icon=":speech_balloon")
-st.title("Chat with my DB")
+st.title("My DB Assistant :speech_balloon:")
 
 # Session state initialization
 if "chat_history" not in st.session_state:
