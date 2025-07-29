@@ -4,7 +4,9 @@ This is a Streamlit-based application that lets you **chat with your database** 
 
 ---
 
-![Alt Text](Workflow_diagram/MyDBAssistantFlowchart.jpg)
+<p align="center">
+  <img src="Workflow_diagram/MyDBAssistantFlowchart.jpg" alt="MyDBAssistant Diagram" width="80%">
+</p>
 
 ## Features
 
